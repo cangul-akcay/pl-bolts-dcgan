@@ -30,13 +30,11 @@ python train.py --dataset mnist --gpus 1
 
 ## Experimental Results
 ### CIFAR-10
-| Latent Space | Generated Image |
-| ------------ | --------------- |
-![](images/cifar10/random.png)
- | ![](images/cifar10/fake.png)
+| Latent Space                   | Generated Image              |
+| ------------------------------ | ---------------------------- |
+| ![](images/cifar10/random.png) | ![](images/cifar10/fake.png) |
 
  ### MNIST
- | Latent Space | Generated Image |
- | ------------ | --------------- |
-![](images/mnist/random.png)
- | ![](images/mnist/fake.png)
+| Latent Space                   | Generated Image              |
+| ------------------------------ | ---------------------------- |
+| ![](images/mnist/random.png)   | ![](images/mnist/fake.png)     |
